@@ -164,7 +164,8 @@ Open `http://localhost:3000`
 <img width="1910" height="889" alt="image" src="https://github.com/user-attachments/assets/51d874aa-9ab4-4edd-a7ed-a2c0bf3cf409" />
 
 
-<img width="1253" height="898" alt="Screenshot 2026-05-18 233824" src="https://github.com/user-attachments/assets/27fe338c-c917-4311-9cc3-db738b5376ce" />
+<img width="1259" height="884" alt="image" src="https://github.com/user-attachments/assets/196a57dc-30b6-443c-aeeb-b53cf7124f2c" />
+
 
 
 
