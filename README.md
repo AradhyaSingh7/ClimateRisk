@@ -26,7 +26,6 @@ Most climate tools stop at "will a disaster happen here." ClimateRisk goes furth
 - **SHAP explainability** — shows which features drove each prediction (not just a score)
 - **Interactive heatmap** — Leaflet.js map with color-coded risk circles across all 50 states
 - **Side-by-side comparison** — compare any two states across disaster types and years
-- **Mock mode** — backend runs with realistic seeded data before real models are trained
 
 ---
 
